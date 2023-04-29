@@ -5,9 +5,6 @@ a{
     background-color: #472222f2;
     font-family: 'Roboto', sans-serif;
 }
-.linkDiv a{
-    color: #ffb8cb;
-}
 .linkDiv a:hover{
     transition: all 0.5s;
     color: #ffb8cb;

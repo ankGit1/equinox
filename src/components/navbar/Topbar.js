@@ -31,15 +31,15 @@ function Topbar() {
             <Navbar sticky="top" collapseOnSelect expand="md">
                 <Container>
                     <img className='logoImg' src='images/logo.png' alt='img' />
-                    <Navbar.Brand style={{ color: '#f30443' }} href="#home">Equinox</Navbar.Brand>
+                    <Navbar.Brand style={{ color: '#f30443' }}>Equinox</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto linkDiv">
-                            <Nav.Link className='mx-2' onClick={(e) => clickButton(e)} name='home'>Home</Nav.Link>
-                            <Nav.Link className='mx-2' onClick={(e) => clickButton(e)} name='benefits'>Benefits</Nav.Link>
-                            <Nav.Link className='mx-2' onClick={(e) => clickButton(e)} name='classes'>Classes</Nav.Link>
-                            <Nav.Link className='mx-2' onClick={(e) => clickButton(e)} name='contact'>Contacts</Nav.Link>
-                            <Nav.Link className='mx-2' onClick={(e) => clickButton(e)} name='join'>Join Us</Nav.Link>
+                            <Nav.Link style={{color:'#ffb8cb'}} className='mx-2' onClick={(e) => clickButton(e)} name='home'>Home</Nav.Link>
+                            <Nav.Link style={{color:'#ffb8cb'}} className='mx-2' onClick={(e) => clickButton(e)} name='benefits'>Benefits</Nav.Link>
+                            <Nav.Link style={{color:'#ffb8cb'}} className='mx-2' onClick={(e) => clickButton(e)} name='classes'>Classes</Nav.Link>
+                            <Nav.Link style={{color:'#ffb8cb'}} className='mx-2' onClick={(e) => clickButton(e)} name='contact'>Contacts</Nav.Link>
+                            <Nav.Link style={{color:'#ffb8cb'}} className='mx-2' onClick={(e) => clickButton(e)} name='join'>Join Us</Nav.Link>
                         </Nav>
                         <Nav>
                             <Button className='px-4' variant='warning'  onClick={(e) => clickButton(e)} name='join'>
