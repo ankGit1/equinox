@@ -1,0 +1,11 @@
+.contact_mainDiv{
+    padding: 2vw 4vw;
+    background: #472222f2;
+    font-family: 'Roboto', sans-serif;
+}
+.contact_mainDiv h5{
+    color: #f30443;
+}
+.contact_mainDiv p{
+    color: white;
+}

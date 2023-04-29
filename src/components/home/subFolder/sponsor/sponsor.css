@@ -1,0 +1,18 @@
+.sponsor_mainDiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0;
+    background: linear-gradient(to left, #9e3232, #f1b993);
+}
+
+.stay_visi{
+    width: 14vw;
+    min-width: 66px;
+    opacity: 0;
+    transition: all 1.2s;
+}
+
+.stay_visi.active{
+    opacity: 1;
+}

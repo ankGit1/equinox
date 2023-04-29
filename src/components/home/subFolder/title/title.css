@@ -1,0 +1,53 @@
+.title_mainDiv{
+    margin: 0;
+    padding: 3vw 4vw;
+    background: #472222f2;
+    letter-spacing: 0.6px;
+    transition: all 1s;
+    font-family: 'Roboto', sans-serif;
+}
+.h_bigHead{
+    font-size: 140px;
+    font-weight: 900;
+    margin: 0;
+    color: #754646f2;
+    text-shadow: -2px -1px 0px #f30443;
+}
+
+.h_brand{
+    font-size: 100px;
+    font-weight: 600;
+    margin: -115px 0 0 90px;
+    color: #f30443;
+}
+
+.h_tag{
+    font-size: 40px;
+    color: white;
+}
+
+.h_info{
+    color: #ffb8cb;
+}
+
+.titleImg img{
+    width: 100%;
+    transition-delay: 1s;
+    background: linear-gradient(314deg, transparent,transparent,#391818f2, #db7e7ecc);
+}
+
+
+@media only screen and (max-width:550px) {
+    .h_bigHead{
+        font-size: 80px;
+    }
+    .h_brand{
+        font-size: 50px;
+        margin: -60px 0 0 50px;
+    }
+    .h_tag{
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+}
+
