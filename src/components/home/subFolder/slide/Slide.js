@@ -49,7 +49,7 @@ function Slide() {
                     sunt in culpa qui officia deserunt mollit anim id est laborum.
                     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    commodo consequat. Duis aute irure dolor in reprehenderit.
+                    commodo consequat.
                   </p>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -68,7 +68,7 @@ function Slide() {
                     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
                     commodo consequat. Duis aute irure dolor in reprehenderit in
-                    voluptate velit esse cillum dolore eu fugiat.
+                    voluptate.
                   </p>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -87,7 +87,7 @@ function Slide() {
                     voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ut enim ad minim veniam,
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
                     commodo consequat. Duis aute irure dolor in reprehenderit in
-                    voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    voluptater.
                   </p>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -107,7 +107,7 @@ function Slide() {
                     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
                     commodo consequat. Duis aute irure dolor in reprehenderit in
-                    voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    voluptate.
                   </p>
                 </Carousel.Caption>
               </Carousel.Item>
