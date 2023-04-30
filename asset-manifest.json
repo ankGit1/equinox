@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/equinox/static/css/main.a4448924.css",
+    "main.css": "/equinox/static/css/main.3f8798fd.css",
     "main.js": "/equinox/static/js/main.682e0ef2.js",
-    "static/media/meditation.webp": "/equinox/static/media/meditation.58c4df22ee8c8d486617.webp",
+    "static/media/meditation.webp": "/equinox/static/media/meditation.76fd59133cc323e8ae92.webp",
     "index.html": "/equinox/index.html"
   },
   "entrypoints": [
-    "static/css/main.a4448924.css",
+    "static/css/main.3f8798fd.css",
     "static/js/main.682e0ef2.js"
   ]
 }
