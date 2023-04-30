@@ -12,7 +12,7 @@ function Contact() {
                         There are workouts to learn, diets to follow, <br />
                         willpower to conjure, and self-consciousness to overcome.
                     </p>
-                    <div style={{color:'#c8b4b4'}}>Equinox. all rights reserved</div>
+                    <div style={{color:'#c8b4b4'}}>©Equinox. all rights reserved</div>
                 </Col>
                 <Col className='my-2' md='4'>
                     <h5>Contact Us</h5>
