@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/equinox/static/css/main.3f8798fd.css",
-    "main.js": "/equinox/static/js/main.682e0ef2.js",
+    "main.js": "/equinox/static/js/main.ad5f7222.js",
     "static/media/meditation.webp": "/equinox/static/media/meditation.76fd59133cc323e8ae92.webp",
     "index.html": "/equinox/index.html"
   },
   "entrypoints": [
     "static/css/main.3f8798fd.css",
-    "static/js/main.682e0ef2.js"
+    "static/js/main.ad5f7222.js"
   ]
 }
